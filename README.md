@@ -7,6 +7,6 @@
 ## About
   This is a demo for a topdown roguelike game.
   
-  Uses More Mountain's TopDown Engine for controls, combat system, and AI brain.
+  Uses More Mountain's TopDown Engine for controls, basic combat system, and AI brain.
   Music by Austin.
   Everything else by Ed.
