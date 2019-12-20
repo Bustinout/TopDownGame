@@ -2,7 +2,7 @@
   Link to demo: https://drive.google.com/open?id=18C_ok2pm1d52cd_E7dhuACiJoXG14XqN
   
 ## Screenshots
-  Will upload later.
+  http://www.filedropper.com/topdowngamedemo
   
 ## About
   This is a demo for a topdown roguelike game.
