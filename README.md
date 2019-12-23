@@ -5,7 +5,7 @@
   https://imgur.com/a/oWKyZWt
   
 ## About
-  This is a demo for a topdown roguelike game.
+  This is a PC demo for a topdown roguelike game.
   
   Uses More Mountain's TopDown Engine for controls, basic combat system, and AI brain.
   
